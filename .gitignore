@@ -6,3 +6,5 @@ dist
 .codebuddy/*
 !.codebuddy/skills/
 .vercel
+# Tailwind
+tailwind.config.ts.bak
